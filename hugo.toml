@@ -1,0 +1,12 @@
+baseURL = 'https://shdynila.github.io/lisn-tui-wiki/'
+languageCode = 'en-us'
+title = 'LISN-TUI Documentation & Architecture Wiki'
+theme = 'PaperMod'
+
+[params]
+  env = 'production'
+  description = 'Official Architecture, Audio DSP, and Devlogs for LISN-TUI Studio Mixer'
+  author = 'LISN Team'
+  ShowToc = true
+  TocOpen = true
+  mainSections = ['Architecture', 'Devlog']
